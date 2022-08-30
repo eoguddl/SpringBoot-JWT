@@ -1,2 +1,2 @@
 # SpringBootJWTExample
-spring boot
+About Spring Boot with JWT example
